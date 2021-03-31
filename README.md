@@ -69,8 +69,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+ScreenShots
+
+<img width="721" alt="Screen Shot 2021-03-31 at 2 16 43 AM" src="https://user-images.githubusercontent.com/62213761/113194669-f3057100-9293-11eb-8d12-9604a071cd19.png">
 
 
 
 <img width="721" alt="Screen Shot 2021-03-31 at 2 14 26 AM" src="https://user-images.githubusercontent.com/62213761/113194540-d49f7580-9293-11eb-9316-3cdd4af10fce.png">
 
+
+![Screen Shot 2021-03-31 at 2 20 58 AM](https://user-images.githubusercontent.com/62213761/113194702-fc8ed900-9293-11eb-8981-945780b17dd1.png)
+
+
+<img width="721" alt="Screen Shot 2021-03-31 at 2 17 07 AM" src="https://user-images.githubusercontent.com/62213761/113194738-03b5e700-9294-11eb-805b-8a88861869f5.png">
+
+<img width="721" alt="Screen Shot 2021-03-31 at 2 17 53 AM" src="https://user-images.githubusercontent.com/62213761/113194759-0a445e80-9294-11eb-9e0a-1ef6dec379d0.png">
+
+
+<img width="1430" alt="Screen Shot 2021-03-31 at 2 18 45 AM" src="https://user-images.githubusercontent.com/62213761/113194776-10d2d600-9294-11eb-9a99-b0c3c9417edf.png">
+
+
+<img width="1430" alt="Screen Shot 2021-03-31 at 2 18 28 AM" src="https://user-images.githubusercontent.com/62213761/113194796-16302080-9294-11eb-9d4c-46704ccf8de9.png">
